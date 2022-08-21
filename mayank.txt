@@ -1,0 +1,13 @@
+Thia=s is mayank file
+:wq
+
+
+
+
+
+
+
+wq!
+:w
+:wq
+
